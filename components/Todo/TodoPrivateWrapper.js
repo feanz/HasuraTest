@@ -6,7 +6,7 @@ import TodoPrivateList from "./TodoPrivateList";
 const TodoPrivateWrapper = () => {
   return (
     <div className="todoWrapper">
-      <div className="sectionHeader">Personal todos</div>
+      <div className="sectionHeader">My Todos</div>
 
       <TodoInput />
       <TodoPrivateList />
