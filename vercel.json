@@ -1,13 +1,13 @@
 {
   "build": {
     "env": {
-      "DOMAIN": "https://hasura-test-seven.vercel.app",
+      "DOMAIN": "https://hasura-test-flax.vercel.app",
       "AUTH0_DOMAIN": "https://dev-krfg33st1r2h3jmp.us.auth0.com",
       "AUTH0_AUDIENCE": "https://hasura.io/learn",
       "AUTH0_CLIENT_ID": "sUm87bf9lyGtXKXeFtNTuz4rWdYO0hfB",
       "AUTH0_CLIENT_SECRET": "@auth0_client_secret",
       "REDIRECT_URI": "/api/callback",
-      "POST_LOGOUT_REDIRECT_URI": "https://hasura-test-seven.vercel.app/",
+      "POST_LOGOUT_REDIRECT_URI": "https://hasura-test-flax.vercel.app/",
       "SESSION_COOKIE_SECRET": "@session_cookie_secret"
     }
   }
